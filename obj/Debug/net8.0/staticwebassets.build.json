@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c+7EJscEp/QWVI/8J8WWscFanRJm7r+MKQ+3cAxOJRY=",
+  "Source": "Lab9_Deploy",
+  "BasePath": "_content/Lab9_Deploy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

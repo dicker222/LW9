@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Lab9_Deploy.props" />
+</Project>
